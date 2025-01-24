@@ -1,4 +1,4 @@
-# redis notes
+# Redis notes
 
 Pull and start container:
 docker run -d --name redis -p 6379:6379 -p 8001:8001 redis:latest
